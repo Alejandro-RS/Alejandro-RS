@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Alejandro! 👋
 
 Bienvenido a mi repositorio de GitHub. Soy un desarrollador fullstack junior que disfruta transformar ideas en soluciones digitales innovadoras, utilizando un stack moderno y flexible.
 
@@ -18,7 +18,7 @@ En este perfil encontrarás una colección de proyectos que reflejan mi pasión 
 ## 📫 Conecta Conmigo
 Si te interesa colaborar o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) • [Email](mailto:tuemail@example.com)
+[LinkedIn](https://www.linkedin.com/in/alejandro-rocas) • [Email](alejandro.roca.saucedo@gmail.com)
 
 ---
 
