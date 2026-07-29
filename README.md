@@ -1,25 +1,58 @@
-<h1># ¡Hola, soy Alejandro! 👋</h1>
+# Alejandro Roca
 
+**Desarrollo software aplicado a operaciones industriales, inventario, mantenimiento, trazabilidad y sistemas embebidos.**
 
+Desarrollador full stack con perfil técnico-operativo. Creo herramientas orientadas a resolver problemas reales, reducir errores humanos y convertir procesos manuales en sistemas fiables, auditables y mantenibles.
 
+## Áreas de trabajo
 
-Bienvenido a mi repositorio de GitHub. Soy un desarrollador fullstack junior que disfruta transformar ideas en soluciones digitales innovadoras, utilizando un stack moderno y flexible.
+- Gestión de inventario industrial y repuestos.
+- Sistemas GMAO y mantenimiento preventivo.
+- Catálogos técnicos asociados a máquinas.
+- Aplicaciones de escritorio, telemetría y diagnóstico.
+- Automatización de procesos y generación de informes.
+- Integración con ESP32-S3, Teensy 4.1, ELM327.
 
-## 🚀 Stack Tecnológico
-- **Frontend:** React, React Router, Context API, Fetch API
-- **Backend:** Flask, SQLAlchemy, PostgreSQL, JWT
-- **Control de versiones:** Git & GitHub
+## Stack
 
-## 💡 Proyectos Destacados
-En este perfil encontrarás una colección de proyectos que reflejan mi pasión por el desarrollo web y mi interés en crear aplicaciones escalables, seguras y bien estructuradas. Cada repositorio incluye documentación detallada y ejemplos de buenas prácticas de codificación.
+**Backend:** Python, Flask, SQLAlchemy, Alembic, PostgreSQL, JWT y APIs REST.  
+**Frontend:** React, React Router, Context API, JavaScript, HTML y CSS.  
+**Desktop y datos:** PySide6, PyQtGraph, PySerial, CSV y telemetría en tiempo real.  
+**Sistemas:** Git, GitHub Actions, PowerShell, Windows, Linux, Gunicorn y Nginx.
 
-## 🎨 Enfoque Creativo
-- **Diseño intuitivo:** Interfaces dinámicas y fáciles de usar.
-- **Código limpio y modular:** Priorizo la claridad y la mantenibilidad.
-- **Aprendizaje continuo:** Siempre explorando nuevas tecnologías y técnicas para mejorar mis proyectos.
+## Metodología
 
-## 📫 Conecta Conmigo
-Si te interesa colaborar o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
+Trabajo mediante un flujo modular, secuencial y verificable:
+
+```text
+ANÁLISIS
+  ↓
+DISEÑO FUNCIONAL Y DE DOMINIO
+  ↓
+REGLAS, ESTADOS E INVARIANTES
+  ↓
+PREFLIGHT TÉCNICO
+  ↓
+IMPLEMENTACIÓN INCREMENTAL
+  ↓
+PRUEBAS Y VALIDACIÓN
+  ↓
+DOCUMENTACIÓN
+  ↓
+COMMIT, PUSH Y RELEASE
+```
+
+Principios: un objetivo por módulo, integridad de datos, trazabilidad, pruebas derivadas del dominio, documentación técnica y detención ante contradicciones o resultados inesperados.
+
+## Proyectos destacados
+
+- **Inventory Analytics:** inventario industrial, valoración, trazabilidad y catálogo progresivo de repuestos por máquina.
+- **Sistemas GMAO:** ubicaciones, artículos, lotes, balances, estados, auditoría y mantenimiento.
+- **[A3 OBD-II Car Scanner](https://github.com/Alejandro-RS/A3-obdII-carscanner):** telemetría, DTC, Freeze Frame, caja negra e informes HTML con ELM327.
+- **Dirtywave M8 Breakstation:** integración de Teensy 4.1, R36S, ArkOS, audio USB.
+- **ESP32-S3:** prototipos con pantallas, audio, controles físicos y sistemas embebidos.
+
+## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/alejandro-rocas) • [Email](alejandro.roca.saucedo@gmail.com)
 
