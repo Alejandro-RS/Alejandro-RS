@@ -22,27 +22,11 @@ Desarrollador full stack con perfil técnico-operativo. Creo herramientas orient
 
 ## Metodología
 
-Trabajo mediante un flujo modular, secuencial y verificable:
+Trabajo de forma modular, ordenada y verificable, completando cada bloque de principio a fin:
 
-```text
-ANÁLISIS
-  ↓
-DISEÑO FUNCIONAL Y DE DOMINIO
-  ↓
-REGLAS, ESTADOS E INVARIANTES
-  ↓
-PREFLIGHT TÉCNICO
-  ↓
-IMPLEMENTACIÓN INCREMENTAL
-  ↓
-PRUEBAS Y VALIDACIÓN
-  ↓
-DOCUMENTACIÓN
-  ↓
-COMMIT, PUSH Y RELEASE
-```
+AUDITORÍA → PLANIFICACIÓN → IMPLEMENTACIÓN → PRUEBAS → VERIFICACIÓN → DOCUMENTACIÓN → GIT Y CIERRE
 
-Principios: un objetivo por módulo, integridad de datos, trazabilidad, pruebas derivadas del dominio, documentación técnica y detención ante contradicciones o resultados inesperados.
+Priorizo objetivos claros, cambios controlados, resultados comprobables, trazabilidad y documentación de lo realizado y lo pendiente.
 
 ## Proyectos destacados
 
